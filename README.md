@@ -25,7 +25,7 @@ pip install django-simple-captcha
 4) You're ready! 
 run the following command in website folder:
 ```
-python manage.py runsever
+python manage.py runserver
 ```
 Navigate to localhost:8000 
 
